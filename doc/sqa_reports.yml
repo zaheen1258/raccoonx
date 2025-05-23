@@ -1,0 +1,6 @@
+Applications:
+    raccoonx:
+        app_types:
+            - raccoonxApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
